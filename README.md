@@ -43,7 +43,7 @@ Link: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data
 
 ### Visualisation
 
- ![Heatmap: Product vs Sales Person](hmboxesbysalesperson.png)
+ ![Heatmap: Product vs Sales Person]("hmboxesbysalesperson.png")
  
  This heatmap highlights the distribution of product sales across salespeople, with some individuals specializing in certain products and others showing broader coverage.
 
