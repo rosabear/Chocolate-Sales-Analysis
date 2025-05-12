@@ -43,24 +43,24 @@ Link: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data
 
 ### Visualisation
 
- ![Heatmap: Product vs Sales Person]("hmboxesbysalesperson.png")
+ ![Heatmap: Product vs Sales Person](https://github.com/rosabear/Chocolate-Sales-Analysis/blob/main/hmboxesbysalesperson.png)
  
  This heatmap highlights the distribution of product sales across salespeople, with some individuals specializing in certain products and others showing broader coverage.
 
 
-![Bar Chart: Revenue vs Sales Person](totalrev.png)
+![Bar Chart: Revenue vs Sales Person](https://github.com/rosabear/Chocolate-Sales-Analysis/blob/main/totalrev.png)
 
 This barchart shows the total revenue brought in by each sales person. 
 
-![Scatterplot: Total Revenue vs Product Range](sprevrange.png)
+![Scatterplot: Total Revenue vs Product Range](https://github.com/rosabear/Chocolate-Sales-Analysis/blob/main/sprevrange.png)
 
 This scatterplot shows a positive correlation between a salesperson's product range and the total revenue they bring in. This suggests that the more variety of products a sales person sells, the more revenue they bring in. 
 
-![Scatterplot: Total Revenue vs Number of Boxes Sold](sprevnumbox.png)
+![Scatterplot: Total Revenue vs Number of Boxes Sold](https://github.com/rosabear/Chocolate-Sales-Analysis/blob/main/sprevnumbox.png)
 
 This scatterplot shows a positive correlation between the number of boxes a salesperson sells and the revenue they bring in. This suggests that salespeople who sell more boxes tend to generate more revenue.
 
-![Scatterplot: Number of Boxes Sold vs Product Range](sprevnumbox.png)
+![Scatterplot: Number of Boxes Sold vs Product Range](https://github.com/rosabear/Chocolate-Sales-Analysis/blob/main/spnumboxrange.png)
 
 This scatterplot shows a positive correlation between the number of boxes a salesperson sells and their product range. This suggests that those selling a broader variety of products also sell more boxes overall. 
 
